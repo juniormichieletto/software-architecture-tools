@@ -34,6 +34,13 @@ Sometimes I need for an specific tool  but I don't remeber the url/name in that 
 |Whiteboard|Online colaborative whiteboard simple and eficient to freehands|https://witeboard.com|
 |Walling|Online colaborative whiteboard to note and organize ideas|https://walling.app|
 
+## Prototyping
+
+|Name|Description|URL|
+|----------------|-------------------------------|-----------------------------|
+|Figma|Online collaborative design and prototyping tool|https://www.figma.com/|
+
+
 ## Redirections to better pages
 
 |Name|Description|URL|
