@@ -38,7 +38,7 @@ Sometimes I need for an specific tool  but I don't remeber the url/name in that 
 
 |Name|Description|URL|
 |----------------|-------------------------------|-----------------------------|
-|Figma|Online collaborative design and prototyping tool|https://www.figma.com/|
+|Figma|Online collaborative mobile design and prototyping tool|https://www.figma.com/|
 
 
 ## Redirections to better pages
