@@ -42,8 +42,9 @@ Sometimes I need for an specific tool  but I don't remeber the url/name in that 
 
 ## Presentations/Trainings helpers
 
-|Name|Description|URL|
-|Straw Poll|Free poll platform to collect feedbacks and make quiz during trainings and presentations|https://strawpoll.com|
+|Name            |Description                                                                          |URL                            |
+|----------------|-------------------------------------------------------------------------------------|-------------------------------|
+|Straw Poll      |Poll platform to collect feedbacks and make quizes during trainings and presentations|https://strawpoll.com          |
 
 ## Redirections to better pages
 
