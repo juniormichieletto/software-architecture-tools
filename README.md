@@ -40,6 +40,10 @@ Sometimes I need for an specific tool  but I don't remeber the url/name in that 
 |----------------|-------------------------------|-----------------------------|
 |Figma|Online collaborative mobile design and prototyping tool|https://www.figma.com/|
 
+## Presentations/Trainings helpers
+
+|Name|Description|URL|
+|Straw Poll|Free poll platform to collect feedbacks and make quiz during trainings and presentations|https://strawpoll.com|
 
 ## Redirections to better pages
 
