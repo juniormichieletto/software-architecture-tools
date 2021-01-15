@@ -47,11 +47,12 @@ Sometimes I need for an specific tool  but I don't remeber the url/name in that 
 |----------------|-------------------------------------------------------------------------------------|-------------------------------|
 |Straw Poll      |Poll platform to collect feedbacks and make quizes during trainings and presentations|https://strawpoll.com          |
 
-## Redirections to better pages
+## Others pages
 
-|Name|Description|URL|
-|----------------|-------------------------------|-----------------------------|
-|Open API Tools|List of tools, convertes, data validations, documents and much more resources about OpenAPI|https://openapi.tools/|
+|Name            |Description                                                                          |URL                            |
+|----------------|-------------------------------------------------------------------------------------|-------------------------------|
+|Open API Tools  |List of tools, convertes, data validations, documents and more about OpenAPI         |https://openapi.tools/|
+|Awesome page of microservices|A list of Microservice Architecture related principles and technologies|https://github.com/mfornos/awesome-microservices|
 
 
 ### TODO
@@ -59,8 +60,8 @@ Sometimes I need for an specific tool  but I don't remeber the url/name in that 
 Add sample images to be easier to pick the better tool for some situations.
 
 ### Constraints to contribuite.
-The software must be online.
-The software must be partially free at least.
+The software must be online(if is an app).
+The software must be partially free at least(if is an app).
 The contribution can be noticing something that was wrong or something new to add.
 The contribution can be a pull request.
 
