@@ -31,6 +31,11 @@ Sometimes I need for a specific tool that I don't remember the url/name and this
 | Open APM    | Draw and choose the better tools to monitor performance, logs, security etc | https://openapm.io/landscape |
 | Db Diagram  | A free, simple tool to draw ER diagrams by just writing code.               | https://dbdiagram.io         |
 
+### Diagram as code
+| Name        | Description                                                                 | URL                                    |
+|-------------|-----------------------------------------------------------------------------|----------------------------------------|
+| Diagrams    | Diagrams as Code, to help maintaing and generate images even usign CI       | https://github.com/mingrammer/diagrams |
+
 
 ## Sequence diagrams or UML
 
