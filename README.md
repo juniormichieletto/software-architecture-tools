@@ -18,6 +18,10 @@ Sometimes I need for a specific tool that I don't remember the url/name and this
 - [Whiteboards](#whiteboards)
 - [Diagrams](#diagrams)
 - [AI Architecture Tools](#ai-architecture-tools)
+- [Awesome AI Agent Lists](#awesome-ai-agent-lists)
+- [Top AI Agent Frameworks & Orchestration](#top-ai-agent-frameworks--orchestration)
+- [AI Coding & Developer Agents](#ai-coding--developer-agents)
+- [Model Context Protocol (MCP)](#model-context-protocol-mcp)
 - [Diagram as Code](#diagram-as-code)
 - [C4 Model Tools](#c4-model-tools)
 - [Architecture Discovery & Modernization](#architecture-discovery--modernization)
@@ -63,7 +67,52 @@ Sometimes I need for a specific tool that I don't remember the url/name and this
 |------|-------------|-----|
 | Cloudviz.io | AI-powered AWS auto-discovery and "As-Built" documentation. | https://cloudviz.io/ |
 | Eraser.io | AI-powered diagramming (DiagramGPT) that converts text/code into editable visuals. | https://www.eraser.io/ |
+| Taskade AI | AI agents that can generate architecture diagrams, project roadmaps, and design critiques. | https://www.taskade.com/ |
 | Terrastruct | Specialized for complex systems with AI-assisted layout and multi-layered diagrams. | https://terrastruct.com/ |
+| Visual Paradigm AI | Generates C4 Model diagrams (all 4 levels) from natural language prompts. | https://www.visual-paradigm.com/ |
+
+## Awesome AI Agent Lists
+
+*(Curated meta-resources and directories for exploring the AI agent ecosystem)*
+
+| Name | Description | URL |
+|------|-------------|-----|
+| Awesome AI Agents (e2b) | The most comprehensive list of AI agents, frameworks, and resources. | https://github.com/e2b-dev/awesome-ai-agents |
+| Awesome AI Agents (Wally) | A curated list of autonomous agents and frameworks. | https://github.com/Wally869/awesome-ai-agents |
+| GenAI Agents | A collection of advanced agentic patterns and implementations (ReAct, Plan-and-Execute). | https://github.com/NirDiamant/GenAI_Agents |
+
+## Top AI Agent Frameworks & Orchestration
+
+*(Trending repositories for building and coordinating autonomous agents)*
+
+| Name | Description | URL |
+|------|-------------|-----|
+| Agno | (Formerly Phidata) Lightweight, type-safe agent framework for building multi-agent systems. | https://github.com/agno-agi/agno |
+| AutoGen | Microsoft's framework for building conversational multi-agent systems. | https://github.com/microsoft/autogen |
+| CrewAI | Role-based agent collaboration framework, ideal for simulating team workflows. | https://github.com/crewAIInc/crewAI |
+| LangChain | The industry standard for LLM orchestration, agents, and RAG. | https://github.com/langchain-ai/langchain |
+| MetaGPT | Multi-agent framework that simulates a software company (PM, Dev, QA, etc.). | https://github.com/geekan/MetaGPT |
+| PydanticAI | A production-grade, type-safe agent framework built by the Pydantic team. | https://github.com/pydantic/pydantic-ai |
+
+## AI Coding & Developer Agents
+
+*(Autonomous agents specifically designed for software engineering and repo management)*
+
+| Name | Description | URL |
+|------|-------------|-----|
+| Aider | A terminal-based pair programmer that allows you to edit code using natural language. | https://github.com/paul-gauthier/aider |
+| Claude Code | Anthropic's official CLI agent for researching, coding, and testing in the terminal. | https://github.com/anthropics/claude-code |
+| Gemini CLI | Google's official agent for terminal-based assistance and code generation. | https://github.com/google-gemini/gemini-cli |
+| OpenHands | (Formerly OpenDevin) An open-source autonomous software engineer for complex dev tasks. | https://github.com/All-Hands-AI/OpenHands |
+
+## Model Context Protocol (MCP)
+
+*(The open standard for connecting AI agents to architecture tools, codebases, and data)*
+
+| Name | Description | URL |
+|------|-------------|-----|
+| MCP Documentation | Official documentation for the Model Context Protocol. | https://modelcontextprotocol.io/ |
+| MCP Servers Directory | Curated list of servers that provide context (Git, Slack, Databases) to AI agents. | https://github.com/modelcontextprotocol/servers |
 
 ## Diagram as Code
 
