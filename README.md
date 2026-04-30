@@ -17,13 +17,16 @@ Sometimes I need for a specific tool that I don't remember the url/name and this
 
 - [Whiteboards](#whiteboards)
 - [Diagrams](#diagrams)
+- [AI Architecture Tools](#ai-architecture-tools)
 - [Diagram as Code](#diagram-as-code)
 - [C4 Model Tools](#c4-model-tools)
+- [Architecture Discovery & Modernization](#architecture-discovery--modernization)
 - [Sequence Diagrams or UML](#sequence-diagrams-or-uml)
 - [Architecture Decision Records (ADR)](#architecture-decision-records-adr)
 - [Prototyping](#prototyping)
 - [Presentations/Trainings Helpers](#presentationstrainings-helpers)
 - [System Design/Software Architecture](#system-designsoftware-architecture)
+- [Engineering Blogs & Newsletters](#engineering-blogs--newsletters)
 - [Other Resources](#other-resources)
 
 ---
@@ -46,11 +49,21 @@ Sometimes I need for a specific tool that I don't remember the url/name and this
 | Name | Description | URL |
 |------|-------------|-----|
 | Arcentry | Design or connect AWS or Azure Diagrams | https://arcentry.com |
+| Archi | Open-source modeling tool for ArchiMate and TOGAF-based enterprise modeling. | https://www.archimatetool.com/ |
 | Cloud Maker | Design AWS, Azure or GCP Diagrams | https://cloudmaker.ai |
 | Cloudcraft | Design or connect AWS Diagrams | https://cloudcraft.co |
 | Db Diagram | A free, simple tool to draw ER diagrams by just writing code. | https://dbdiagram.io |
 | Draw io | Draw a lot of type of things, diagrams, url, flows,etc | https://draw.io |
+| Hava.io | Automated cloud infrastructure diagramming for AWS, Azure, and GCP. | https://www.hava.io/ |
 | Open APM | Draw and choose the better tools to monitor performance, logs, security etc | https://openapm.io/landscape |
+
+## AI Architecture Tools
+
+| Name | Description | URL |
+|------|-------------|-----|
+| Cloudviz.io | AI-powered AWS auto-discovery and "As-Built" documentation. | https://cloudviz.io/ |
+| Eraser.io | AI-powered diagramming (DiagramGPT) that converts text/code into editable visuals. | https://www.eraser.io/ |
+| Terrastruct | Specialized for complex systems with AI-assisted layout and multi-layered diagrams. | https://terrastruct.com/ |
 
 ## Diagram as Code
 
@@ -67,6 +80,13 @@ Sometimes I need for a specific tool that I don't remember the url/name and this
 |------|-------------|-----|
 | IcePanel | Model your software architecture using the C4 model and keep it in sync with your code. | https://icepanel.io/ |
 | Structurizr | A set of tools to create software architecture diagrams based on the C4 model. | https://structurizr.com/ |
+
+## Architecture Discovery & Modernization
+
+| Name | Description | URL |
+|------|-------------|-----|
+| Inno.navi | Uses reverse engineering to automatically generate architecture diagrams from code. | https://inno-navi.com/ |
+| vFunction | AI-driven platform for analyzing monoliths and refactoring them into microservices. | https://vfunction.com/ |
 
 ## Sequence Diagrams or UML
 
@@ -101,6 +121,18 @@ Sometimes I need for a specific tool that I don't remember the url/name and this
 | Name | Description | URL |
 |------|-------------|-----|
 | ByteByteGo System Design 101 | Collection of System Design with high-level explanations from the ByteByteGo | https://github.com/ByteByteGoHq/system-design-101 |
+| DesignGurus.io | Specialized courses for mastering system design and architectural patterns. | https://www.designgurus.io/ |
+| System Design Primer | The definitive open-source guide for learning how to scale systems. | https://github.com/donnemartin/system-design-primer |
+
+## Engineering Blogs & Newsletters
+
+| Name | Description | URL |
+|------|-------------|-----|
+| ByteByteGo Newsletter | Visual breakdowns of how large-scale systems work. | https://blog.bytebytego.com/ |
+| Netflix Tech Blog | Insights into cloud-native, microservices, and observability at scale. | https://netflixtechblog.com/ |
+| Quastor Newsletter | Summaries of engineering blog posts from big tech companies. | https://www.quastor.org/ |
+| Stripe Engineering | High-quality articles on API design and reliable infrastructure. | https://stripe.com/blog/engineering |
+| Uber Engineering | Deep dives into networking, data management, and mobile architecture. | https://www.uber.com/en-US/blog/engineering/ |
 
 ## Other Resources
 
