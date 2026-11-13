@@ -157,6 +157,7 @@ Sometimes I need for a specific tool that I don't remember the url/name and this
 
 | Name | Description | URL |
 |------|-------------|-----|
+| CSV to REST API | Converts CSV data into a hosted REST API with persistent CRUD operations for integration proofs of concept and demos, without backend code or signup. | https://beeceptor.com/csv-to-api/ |
 | Figma | Online collaborative mobile design and prototyping tool | https://www.figma.com/ |
 
 ## Presentations/Trainings Helpers
