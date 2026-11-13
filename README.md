@@ -122,6 +122,7 @@ Sometimes I need for a specific tool that I don't remember the url/name and this
 | Diagrams | Diagrams as Code (Python), to help maintaining and generate images using CI | https://github.com/mingrammer/diagrams |
 | Mermaid | JavaScript based diagramming and charting tool that renders Markdown-inspired text definitions. | https://mermaid.js.org/ |
 | PlantUML | Open-source tool allowing users to create diagrams from a plain text language. | https://plantuml.com/ |
+| karasu | Text-based DSL that models a system's logical, physical, and organizational structure in one language; C4-inspired with drill-down navigation. | https://github.com/kompiro/karasu |
 
 ## C4 Model Tools
 
